@@ -1,7 +1,7 @@
 # Arogya Wellness Assistant
 
 **Arogya Wellness Assistant** is a full-stack, multi-agent health and wellness assistant.  
-The backend (Flask + LangChain + Groq Llama‑3.3‑70B‑Versatile) coordinates specialized agents for symptoms, lifestyle, diet, and fitness, then synthesizes a **safe wellness plan**.[1][2]
+The backend (Flask + LangChain + Groq Llama‑3.3‑70B‑Versatile) coordinates specialized agents for symptoms, lifestyle, diet, and fitness, then synthesizes a **safe wellness plan**.
 The frontend (React + Vite) provides a guided experience for login, profile management, wellness queries, and follow-up questions.
 
 
